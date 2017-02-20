@@ -7,7 +7,17 @@
     "test": "karma start",
     "build":"webpack"
   },
-  "keywords": [],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/oliverY1992/v-scroll-list"
+  },
+  "bugs":{
+    "url": "https://github.com/oliverY1992/v-scroll-list/issues"
+  },
+  "keywords": [
+    "vue",
+    "scroll"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
