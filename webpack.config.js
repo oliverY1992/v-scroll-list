@@ -3,7 +3,7 @@ var path = require('path');
 module.exports = {
     devtool:'eval-source-map',
     entry:{
-        main:'./src/main.js'
+        main:'./src/scroll-list.vue'
     },
     output:{
         filename:'[name].bundle.js',
